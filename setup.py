@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from setuptools import setup, find_packages  # type: ignore
-import unified_planning
+# import unified_planning
 
 
 long_description = """============================================================
