@@ -12,7 +12,7 @@ long_description = """==========================================================
 
 setup(
     name="unified_planning",
-    version=unified_planning.__version__,
+    version="0.5.0",
     description="Unified Planning Framework",
     author="AIPlan4EU Project",
     author_email="aiplan4eu@fbk.eu",
